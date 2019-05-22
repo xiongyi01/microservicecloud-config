@@ -6,10 +6,10 @@
 spring:
   profiles: dev     #开发环境
   application: 
-    name: microservicecloud-config-xh-dev
+    name: microservicecloud-config-xhuo-dev
 ---
 spring:
   profiles: test   #测试环境
   application: 
-    name: microservicecloud-config-xh-test
+    name: microservicecloud-config-xhuo-test
 #  请保存为UTF-8格式
